@@ -4,22 +4,22 @@
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/ikayhan
+  url: http://twitter.com/nanonerd_io
   class: icon-twitter
  # title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
 - name: Facebook
-  url: http://www.facebook.com/iamkayhan
+  url: http://www.facebook.com/nanonerd.io
   class: icon-facebook
  # title: "Lass uns Freunde sein!"
 
-- name: Soundcloud
-  url: http://soundcloud.com/ikayhan
-  class: icon-soundcloud
+#- name: Soundcloud
+#  url: http://soundcloud.com/ikayhan
+#  class: icon-soundcloud
 #  title: "Sounds und Downloads und mehr"
 
 - name: GitHub
-  url: http://github.com/ikayhan
+  url: http://github.com/pixelnerd
   class: icon-github
  # title: Code und mehr...
 
