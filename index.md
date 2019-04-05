@@ -11,17 +11,17 @@ header:
    caption: I sprinkle binary bits on my alphabits. <br>The cyberlife and times of Kayhan B, digital librarian extraordinaire, podcaster and all around nice guy.
 widget-1:
     title: "Blog"
-    url: 'http://nanonerd.ca/blog/'
+    url: 'https://nanonerd.io/blog/'
     text: 'My very latest blog articles. Mostly opinion pieces and how-tos.'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Latest Media"
-    url: 'http://nanonerd.ca/'
+    url: 'https://nanonerd.io/'
     text: 'My very latest media (this could be either audio or video). Expect some cat videos!!'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://nanonerd.ca/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="https://nanonerd.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Latest Download"
-    url: 'http://nanonerd.ca/assets/pdf/pc-pete.pdf'
+    url: 'https://nanonerd.io/assets/pdf/pc-pete.pdf'
     text: 'Download the PDF version of <em>Pete PC and the Brood of Clones</em>, my latest screenplay for a 15-minute animated short film.'
     image: download-303x182.jpg
 ---
