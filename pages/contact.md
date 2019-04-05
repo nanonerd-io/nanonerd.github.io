@@ -13,7 +13,7 @@ permalink: "/contact/"
 
 If you would like to contact me, I can be reached at the following email address
 
-[kayhan@nanonerd.ca](mailto:kayhan@nanonerd.ca)
+[kayhan@nanonerd.io](mailto:kayhan@nanonerd.io)
 
 or by filling out this form
 
