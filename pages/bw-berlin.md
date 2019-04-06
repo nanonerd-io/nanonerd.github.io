@@ -6,7 +6,7 @@ teaser: >-
   Berlin in Black and White. All photos in this gallery were shot with a Sony A7
   and 35mm f2.8 Zeiss lens
 header:
-  image_fullwidth: header_photo.jpg
+  image_fullwidth: header_berlin.jpg
   caption: >-
     I sprinkle binary bits on my alphabits. <br>The cyberlife and times of
     Kayhan B, digital librarian extraordinaire, podcaster and all around nice
