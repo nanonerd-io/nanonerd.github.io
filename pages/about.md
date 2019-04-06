@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "About"
+# title: "About"
 subheadline: "About Kayhan"
 teaser: "This is what you need to know about me"
 header:
