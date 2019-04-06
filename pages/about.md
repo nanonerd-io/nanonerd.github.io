@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "About"
-subheadline: "About Kayhan"
+#subheadline: "About Kayhan"
 teaser: "This is what you need to know about me"
 header:
    image_fullwidth: "header_audio_bw.jpg"
