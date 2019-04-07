@@ -41,26 +41,3 @@
 @import "09_elements";
 
 @import "11_syntax-highlighting";
-
-/* Base files for plyr. */
-@import "plyr-components/base/normalize";
-@import "plyr-components/base/variables";
-@import "plyr-components/base/functions";
-@import "plyr-components/base/base-styles";
-@import "plyr-components/base/utils";
-@import "plyr-components/base/typography";
-@import "plyr-components/base/structure";
-
-/* Modules */
-@import "plyr-components/modules/grid";
-@import "plyr-components/modules/buttons";
-@import "plyr-components/modules/forms";
-@import "plyr-components/modules/lists";
-@import "plyr-components/modules/cards";
-@import "plyr-components/modules/code";
-@import "plyr-components/modules/tables";
-@import "plyr-components/modules/spacing";
-@import "plyr-components/modules/media-queries";
-@import "plyr-components/modules/navigation";
-@import "plyr-components/modules/font-styles";
-@import "plyr-components/modules/plyr":
