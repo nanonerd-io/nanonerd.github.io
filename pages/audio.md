@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Audio"
-subheadline: "Audio by Kayhan"
+# subheadline: "Audio by Kayhan"
 teaser: "Some of my audio work I've done"
 header:
    image_fullwidth: "header_audio_bw.jpg"

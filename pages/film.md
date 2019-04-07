@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Film"
-subheadline: "Film"
+# subheadline: "Film"
 teaser: "Film"
 header:
    image_fullwidth: "header_blue.png"
