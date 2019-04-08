@@ -10,6 +10,11 @@
   class: "rss-link"
   title: "Subscribe to RSS"
 
+- name: "Podcast Feed"
+  url: "/podcast.xml"
+  class: "rss-link"
+  title: "Subscribe to Podcast"
+
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   class: "sitemap-link"
