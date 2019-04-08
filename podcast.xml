@@ -28,7 +28,7 @@
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts limit:10 %}
-    {% if post.exclude_rss = true %}
+    {% if post.podcast = true %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <itunes:author>{{ site.author }}</itunes:author>
