@@ -15,6 +15,7 @@ teaser: "Dude, Where’s My Privacy?"
 header:
    image_fullwidth: "header_audio_bw.jpg"
    caption: I sprinkle binary bits on my alphabits. <br>The cyberlife and times of Kayhan B, digital librarian extraordinaire, podcaster and all around nice guy.
+exclude_rss: true
 ---
 
 Hosts: Kayhan B., Erin Anderson and Doug Mirams

@@ -3,7 +3,6 @@ layout: page
 title: "The Myth of the Super Smartphone"
 teaser: "Google is doing some pretty impressive stuff with the Pixel series, a modest phone by comparison"
 header: no
-exclude_rss: true
 ---
 
 8 GB of RAM. 1 TB of storage. The latest Snapdragon 845 processor. These are some of the specs that are being thrown around these days by the likes of Samsung, Huawei and others. But do we really need all of these high end specs in a pocketable device? Google seems to think not.
