@@ -5,10 +5,15 @@
   class: "services-contact"
   title: "Contact"
 
-- name: "RSS"
+- name: "RSS Feed"
   url: "/feed.xml"
   class: "rss-link"
   title: "Subscribe to RSS"
+
+- name: "Podcast Feed"
+  url: "/podcast.xml"
+  class: "rss-link"
+  title: "Subscribe to Podcast feed"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
