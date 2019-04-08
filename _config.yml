@@ -41,6 +41,13 @@ urlimg: "https://nanonerd.io/images/"
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
+# Podcast specific settings
+
+email: kayhan@nanonerd.io
+subtitle: "The cyberlife and times of Kayhan B, digital librarian extraordinaire, podcaster and all around nice guy."
+lang: en-us
+author: Kayhan B.
+copyright: "&#xA9; 2019"
 
 # Paginates all X entries
 paginate: 5
