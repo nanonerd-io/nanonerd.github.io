@@ -28,6 +28,7 @@
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts limit:10 %}
+    {% if post.exclude_podcast_rss != true %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <itunes:author>{{ site.author }}</itunes:author>
@@ -43,6 +44,7 @@
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>
+    {% endif %}
 {% endfor %}
 	</channel>
 </rss>
