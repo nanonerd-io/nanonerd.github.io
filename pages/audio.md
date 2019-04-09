@@ -10,20 +10,16 @@ header:
 permalink: "/audio/"
 ---
 
-#### Podcast
-
-<p class="teaser">
-    {% for post in site.posts limit:25 %}
+   {% for post in site.posts limit:25 %}
       {% if post.exclude_podcast_rss != true %}
-         <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
-         	<audio controls>
-					<source src="{{ post.file }}" type="audio/mp3">
-				</audio>
+         <p class="teaser">
+            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
+         	   <audio controls>
+					   <source src="{{ post.file }}" type="audio/mp3">
+				   </audio>
+         </p>
       {% endif %}
-    {% endfor %}
-</p>
-
-#### Dquarium Podcasts
+   {% endfor %}
 
 ![Dquarium Logo](/images/dquarium-logo-small.png)
 
