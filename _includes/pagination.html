@@ -8,6 +8,7 @@
 
 
 {% for post in paginator.posts %}
+{% if post.exclude_rss != true %}
   <div class="row">
     <div class="small-12 columns b60">
       <p class="subheadline"><span class="subheader">{% if post.categories %}{{ post.categories | join: ' &middot; ' }}{% endif %}</span> – {% if post.subheadline %}{{ post.subheadline }}{% endif %}</p>
@@ -21,6 +22,7 @@
       </p>
     </div><!-- /.small-12.columns -->
   </div><!-- /.row -->
+  {% endif %}
 {% endfor %}
 
 
