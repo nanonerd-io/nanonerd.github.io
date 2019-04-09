@@ -26,29 +26,33 @@
 {% assign tag = include.tag %}
 <ul class="side-nav">
       {% if category == NULL and tag == NULL %}
-          {% if post.exclude_rss != true %}
 
               {% for post in site.posts limit:include.entries offset:include.offset %}
+              {% if post.exclude_rss != true %}
                 <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-              {% endfor %}
+              {% endif %}
+                {% endfor %}
                 <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
 
 
             {% elsif category %}
               
               {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
+              {% if post.exclude_rss != true %}
                 <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-              {% endfor %}
+              {% endif %}
+                {% endfor %}
                 <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
 
 
             {% elsif tag %}
 
               {% for post in site.tags.[tag] limit:include.entries %}
+              {% if post.exclude_rss != true %}
                 <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-              {% endfor %}
-              
-        {% endif %}
+              {% endif %}
+                {% endfor %}
+
       {% endif %}
 </ul>
 
