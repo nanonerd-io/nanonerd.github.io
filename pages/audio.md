@@ -13,14 +13,17 @@ permalink: "/audio/"
 <p class="teaser">
    {% for post in site.posts limit:25 %}
       {% if post.exclude_podcast_rss != true %}
-            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
+            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+            <p>
          	<audio controls>
                <source src="{{ post.file }}" type="audio/mp3">
             </audio>
+            </p>
+            <br>{{post.description}}
       {% endif %}
    {% endfor %}
 </p>
 
 ![Dquarium Logo](/images/dquarium-logo-small.png)
 
-Dquarium Podcasts are audio podcasts that discuss everything and anything related to digital technology. Here is a podcast called Bibliotech, a show that discusses all things digital technology in libraries
+Dquarium Podcasts are audio podcasts that discuss everything and anything related to digital technology. Go to https://dquarium.com now
