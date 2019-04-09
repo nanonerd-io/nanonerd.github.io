@@ -17,7 +17,7 @@ permalink: "/audio/"
       {% if post.exclude_podcast_rss != true %}
          <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
          	<audio controls>
-					<source src="{{ page.file }}" type="audio/mp3">
+					<source src="{{ post.file }}" type="audio/mp3">
 				</audio>
       {% endif %}
     {% endfor %}
