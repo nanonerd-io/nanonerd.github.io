@@ -12,7 +12,7 @@ permalink: "/audio/"
 
 #### Podcast
 
-    <div class="row">
+   <div class="row">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
             {% if post.exclude_podcast_rss != true %}
@@ -25,6 +25,7 @@ permalink: "/audio/"
             {% endif %}
             {% endfor %}
         </div>
+   </div>
 
 #### Dquarium Podcasts
 
