@@ -12,13 +12,16 @@ permalink: "/audio/"
 
 #### Podcast
 
-<ul>
-    {% for post in site.posts limit:1 %}
-      {% if post.exclude_rss != true %}
-         <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+<p class="teaser">
+    {% for post in site.posts limit:25 %}
+      {% if post.exclude_podcast_rss != true %}
+         <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
+         	<audio controls>
+					<source src="{{ page.file }}" type="audio/mp3">
+				</audio>
       {% endif %}
     {% endfor %}
-</ul>
+</p>
 
 #### Dquarium Podcasts
 
