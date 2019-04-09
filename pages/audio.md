@@ -12,6 +12,20 @@ permalink: "/audio/"
 
 #### Podcast
 
+    <div class="row">
+        <div class="medium-6 columns">
+            {% for post in site.posts limit:1 %}
+            {% if post.exclude_podcast_rss != true %}
+                {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+                <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+                <p>
+                    {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+                    <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+                </p>
+            {% endif %}
+            {% endfor %}
+        </div>
+
 #### Dquarium Podcasts
 
 ![Dquarium Logo](/images/dquarium-logo-small.png)
