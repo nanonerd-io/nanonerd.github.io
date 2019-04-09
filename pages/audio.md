@@ -13,17 +13,18 @@ permalink: "/audio/"
 <p class="teaser">
    {% for post in site.posts limit:25 %}
       {% if post.exclude_podcast_rss != true %}
-            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
+            {{post.teaser}}
             <p>
          	<audio controls>
                <source src="{{ post.file }}" type="audio/mp3">
             </audio>
             </p>
-            <br>{{post.description}}
+            {{post.description}}
       {% endif %}
    {% endfor %}
 </p>
 
 ![Dquarium Logo](/images/dquarium-logo-small.png)
 
-Dquarium Podcasts are audio podcasts that discuss everything and anything related to digital technology. Go to https://dquarium.com now
+Dquarium Podcasts are audio podcasts that discuss everything and anything related to digital technology. Go to <a href="https://dquarium.com">dquarium.com</a> now
