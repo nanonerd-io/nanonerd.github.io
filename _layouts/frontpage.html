@@ -94,7 +94,9 @@ format: blog-index
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts.html entries='3' offset='1' %}
+            {% if post.exclude_rss != true %}
+                {% include list-posts.html entries='3' offset='1' %}
+            {% endif %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
