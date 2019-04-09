@@ -10,16 +10,16 @@ header:
 permalink: "/audio/"
 ---
 
+<p class="teaser">
    {% for post in site.posts limit:25 %}
       {% if post.exclude_podcast_rss != true %}
-         <p class="teaser">
             <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>
-         	   <audio controls>
-					   <source src="{{ post.file }}" type="audio/mp3">
-				   </audio>
-         </p>
+         	<audio controls>
+               <source src="{{ post.file }}" type="audio/mp3">
+            </audio>
       {% endif %}
    {% endfor %}
+</p>
 
 ![Dquarium Logo](/images/dquarium-logo-small.png)
 
