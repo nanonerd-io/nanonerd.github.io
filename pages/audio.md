@@ -13,7 +13,9 @@ permalink: "/audio/"
 
 Dquarium Podcasts are audio podcasts that discuss everything and anything related to digital technology. Go to <a href="https://dquarium.com">dquarium.com</a> now
 
+<br>
 <hr>
+<br>
 
 <p class="teaser">
    {% for post in site.posts limit:25 %}
