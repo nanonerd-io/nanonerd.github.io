@@ -29,9 +29,11 @@ Dquarium Podcasts are audio podcasts that discuss everything and anything relate
             </audio>
             </p>
             {{post.description}}
-            <p>
-            <a href="{{ site.url }}{{ post.url }}">Read More</a> | <a href="{{ site.url }}/podcast.xml">Podcast RSS Feed</a>
+            <br>
+            <br>
+            <a href="{{ site.url }}{{ post.url }}">Read More / Show Notes</a> 
             <hr>
       {% endif %}
    {% endfor %}
 </p>
+<a href="{{ site.url }}/podcast.xml">Podcast RSS Feed</a>
