@@ -9,6 +9,7 @@ header:
    caption: I sprinkle binary bits on my alphabits. <br>The cyberlife and times of Kayhan B, digital librarian extraordinaire, podcaster and all around nice guy.
 permalink: "/audio/"
 ---
+<p>
 ![Dquarium Logo](/images/dquarium-logo-small.png)
 
 Dquarium Podcasts are audio podcasts that discuss everything and anything related to digital technology. Go to <a href="https://dquarium.com">dquarium.com</a> now
