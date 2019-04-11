@@ -16,7 +16,6 @@ Dquarium Podcasts are audio podcasts that discuss everything and anything relate
 
 <br>
 <hr>
-<br>
 
 <p class="teaser">
    {% for post in site.posts limit:25 %}
