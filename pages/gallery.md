@@ -13,6 +13,9 @@ permalink: /gallery/
 published: true
 ---
 
+Coming soon. In the meantime, have a look at my [Black and White Berlin Photo Gallery](bw-berlin)
+
+<!--
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
   <li><a href="https://s3.amazonaws.com/nanonerd.io/images/gallery/coffee-bw-720px.jpg"><img  data-caption="Coffee on College by Kayhan B." class="th" src="https://s3.amazonaws.com/nanonerd.io/images/gallery/coffee-bw-720px-thumb.jpg"></a></li>
   <li><a href="https://s3.amazonaws.com/nanonerd.io/images/gallery/720-bw-720px.jpg"><img  data-caption="720 on King by Kayhan B." class="th" src="https://s3.amazonaws.com/nanonerd.io/images/gallery/720-bw-720px-thumb.jpg"></a></li>
@@ -26,3 +29,4 @@ published: true
   <li><a href="https://s3.amazonaws.com/nanonerd.io/images/gallery/stone-statue.jpg"><img  data-caption="Stone Statue by Kayhan B." class="th" src="https://s3.amazonaws.com/nanonerd.io/images/gallery/stone-statue-thumb.jpg"></a></li>
   <li><a href="https://s3.amazonaws.com/nanonerd.io/images/gallery/tulips-bokeh.jpg"><img  data-caption="Tulips by Kayhan B." class="th" src="https://s3.amazonaws.com/nanonerd.io/images/gallery/tulips-bokeh-thumb.jpg"></a></li>
 </ul>
+-->
