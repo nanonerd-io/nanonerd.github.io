@@ -13,7 +13,7 @@ permalink: /gallery/
 published: true
 ---
 
-Coming soon. In the meantime, have a look at my [Black and White Berlin Photo Gallery](bw-berlin)
+Coming soon. In the meantime, have a look at my [Black and White Berlin Photo Gallery](/bw-berlin)
 
 <!--
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
