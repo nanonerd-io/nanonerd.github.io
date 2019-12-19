@@ -21,7 +21,7 @@ permalink: "/about/"
 
 ### Who is Kayhan B.? Nutshell version (First Person):
 
-Hi, I'm Kayhan B. and I am a digital librarian and podcaster that is passionate about computers, gadgets, technology, libraries and the creative arts. I was born and raised in Montreal, Quebec, Canada but ask anyone I know, and they would say my "spiritual" home and birth place is the Adirondacks in upstate New York. If I had to pick one major city in the world to live in, it would have to be Berlin. I am also addicted to coffee. Nothing beats a good Americano.
+Hi, I'm Kayhan B. and I am a digital librarian and podcaster that is passionate about computers, gadgets, technology, libraries and the creative arts. I was born and raised in Montreal, Quebec, Canada but ask anyone I know, and they would say my "spiritual" home and birth place is the Adirondacks in upstate New York. If I had to pick one major city in the world to live in, it would have to be Berlin. I am also addicted to coffee. Nothing beats a good Americano coffee.
 
 ### Who is Kayhan B.? Long, complicated, and perhaps somewhat boring version (Third Person):
 
