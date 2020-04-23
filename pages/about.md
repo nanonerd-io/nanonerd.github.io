@@ -25,7 +25,7 @@ Hello, I'm Kayhan B. and I am a digital librarian and podcaster that is passiona
 
 ### Who is Kayhan B.? Long, complicated, and perhaps somewhat boring version (Third Person):
 
-Kayhan's fascination with computers and technology began in the late 1970s during an exchange trip with the boy scouts to Southington, Connecticut, a town of about 40,000 located just 20 miles southwest of Hartford. The hosting family had an Atari VCS, better known later as the Atari 2600. After a weekend Frogger blitz (fuelled by pizza and soda pop), Kayhan was hooked (the host's parents, on the other hand, were not impressed and forcibly dragged Kayhan and their two sons to the Southington Apple Harvest Festival, a popular event in the small town).
+Kayhan's fascination with computers and technology began in the late 1970s during an exchange trip with the boy scouts to Southington, Connecticut, a town of about 40,000 located just 20 miles southwest of Hartford, Connecticut. The hosting family had an Atari VCS, better known later as the Atari 2600. After a weekend Frogger blitz (fuelled by pizza and soda pop), Kayhan was hooked (the host's parents, on the other hand, were not impressed and forcibly dragged Kayhan and their two sons to the Southington Apple Harvest Festival, a popular event in the small town).
 
 <div align="center">
 	<figure>
