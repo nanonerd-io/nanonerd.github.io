@@ -6,4 +6,4 @@ header: no
 exclude_podcast_rss: true
 ---
 
-Microsoft loves Linux. 
+Microsoft loves Linux.
