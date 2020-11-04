@@ -14,24 +14,6 @@
   url: "/film/"
   side: left
 
-- # title: Audio
-  # url: "#"
-  # side: left
-  # dropdown:
-  # - title: "Podcast"
-  #  url: "/podcast/"
-  # - title: "Dquarium Podcasts"
-  #  url: "/dquarium/"
-
-- # title: Film
-  # url: "#"
-  # side: left
-  # dropdown:
-  # - title: "Shorts"
-  #  url: "/short-films/"
-  # - title: "Feature length"
-  #  url: "/feature-films/"
-
 - title: Photo
   url: "/gallery/"
   side: left
