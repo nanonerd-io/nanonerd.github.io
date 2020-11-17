@@ -22,7 +22,7 @@ description: "This is my digital hub and portfolio in cyberspace. I am a digital
 
 # This URL is the main address. Don't include a slash at the end.
 #
-url: "https://nanonerd.org"
+url: "https://nanonerd.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
