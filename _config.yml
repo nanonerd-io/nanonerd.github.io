@@ -22,7 +22,7 @@ description: "This is my digital hub and portfolio in cyberspace. I am a digital
 
 # This URL is the main address. Don't include a slash at the end.
 #
-url: "https://nanonerd.io"
+url: "https://nanonerd.org"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -35,7 +35,7 @@ baseurl: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "https://nanonerd.io/images/"
+urlimg: "https://nanonerd.org/images/"
 
 
 # Logo size is 600x80 pixels
