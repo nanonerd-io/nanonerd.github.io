@@ -7,7 +7,7 @@
 layout: frontpage
 title: ""
 header:
-   image_fullwidth: "pcb.jpg"
+   image_fullwidth: "nanonerd-website-banner-revised-compressed.png"
    caption: I sprinkle binary bits on my alphabits. <br>The cyberlife and times of Kayhan B, digital librarian extraordinaire, podcaster and all around nice guy.
 widget-1:
     title: "Blog"
