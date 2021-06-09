@@ -18,7 +18,7 @@ widget-2:
     title: "Latest Media"
     url: 'https://nanonerd.io/'
     text: 'My very latest media (this could be either audio or video). Expect some cat videos!!'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="https://nanonerd.org/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="https://nanonerd.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Latest Download"
     url: 'https://nanonerd.io/assets/pdf/pc-pete.pdf'
