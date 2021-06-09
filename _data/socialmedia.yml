@@ -1,16 +1,16 @@
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
+- name: YouTube
+  url: https://www.youtube.com/channel/UC1Gvn-dqS3lVxfJqAZ0_aWw
+  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/nanonerd_io
+  url: https://twitter.com/nanonerd_io
   class: icon-twitter
  # title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Facebook
-  url: http://www.facebook.com/nanonerd.io
-  class: icon-facebook
+# - name: Facebook
+#  url: http://www.facebook.com/nanonerd.io
+#  class: icon-facebook
  # title: "Lass uns Freunde sein!"
 
 #- name: Soundcloud
@@ -19,13 +19,13 @@
 #  title: "Sounds und Downloads und mehr"
 
 - name: GitHub
-  url: http://github.com/nanonerd-io
+  url: https://github.com/nanonerd-io
   class: icon-github
  # title: Code und mehr...
 
-#- name: Instagram
-#  url: http://instagram.com/phlowmedia
-#  class: icon-instagram
+- name: Instagram
+  url: https://www.instagram.com/nanonerd_io/
+  class: icon-instagram
 #  title: "Bilder und Impressionen mit und ohne Filter..."
 
 #- name: Pinterest
