@@ -18,6 +18,9 @@
 - name: "Blog"
   url: "/blog"
 
+- name: "Contact"
+  url: "/contact"
+
 # - name: "Built on Foundation"
 #   url: "http://foundation.zurb.com/"
 #   class: "services-newsletter"
